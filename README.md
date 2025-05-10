@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🎨 Art Era Classifier
 
 Art Era Classifier, sanat eserlerinin dönemlerini sınıflandırmak için geliştirilmiş bir yapay zeka modelidir. Bu proje, farklı sanat dönemlerine ait eserleri otomatik olarak sınıflandırabilen ve eğitilebilen bir sistem sunar. Özel tasarlanmış derin CNN (Convolutional Neural Network) mimarisi kullanılarak geliştirilen model, yüksek doğruluk oranıyla sanat eserlerinin dönemlerini tespit edebilir.
