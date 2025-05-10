@@ -57,7 +57,3 @@ Bu dosyaları indirmek için `DOWNLOAD_Models&Dataset.py` scriptini çalıştır
 ```bash
 python DOWNLOAD_Models&Dataset.py
 ```
-=======
-# Art_Era_Classifier
-AI-powered image classifier that detects the art era (Medieval, Renaissance, Baroque, or Modern) of any uploaded painting using a trained deep learning model
->>>>>>> ce22490f96f7b94c11f6f79e640c9ff0f0a50494
